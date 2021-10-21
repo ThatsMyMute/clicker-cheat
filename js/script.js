@@ -4,9 +4,9 @@
 var itemCounter = 0;
 var fps = 15;
 
-var money = 7.50;
+var money = 10000000000000000000000000000;
 var currentCase = "case2";
-var acceptMoneyPerClick = 0.1;
+var acceptMoneyPerClick = 100;
 
 
 
@@ -164,7 +164,7 @@ var cases = {
     milspec: {
       weap1: {
         name: "MP7 | Skulls",
-        price: 0.78,
+        price: 100.2,
         img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957ODDZDFO_-O6nYeDg8j4MqnWkyUC7ZYp07iT94j3jVXsqkE-Y2qhJYKcJwA_aA7ZrFC6wLvqgcDt78ud1zI97Xw9NqWl"
       },
       weap2: {
